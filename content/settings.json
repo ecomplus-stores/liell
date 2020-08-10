@@ -1,22 +1,23 @@
 {
-  "store_id": 1144,
-  "name": "liell",
   "domain": "liell.netlify.app",
-  "short_name": "Liell casa e construção",
-  "description": "A Liell é uma empresa familiar que atua no mercado da construção civil a mais de 30 anos. Sempre atenta as inovações do mercado, busca as melhores soluções para seus clientes, oferecendo produtos de qualidade e variedade. Quando o assunto é materiais de construção, tintas, revestimentos, metais e acabamentos, a Liell é a loja de referência na região.",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ff0000",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Liell Casa e Construção",
+  "short_name": "Liell Casa e Construção",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1144,
+  "description": "A Liell é uma empresa familiar que atua no mercado da construção civil a mais de 30 anos. Sempre atenta as inovações do mercado, busca as melhores soluções para seus clientes, oferecendo produtos de qualidade e variedade. Quando o assunto é materiais de construção, tintas, revestimentos, metais e acabamentos, a Liell é a loja de referência na região.",
+  "large_icon": "/img/large-icon.png"
 }
