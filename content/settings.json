@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
+  "store_id": 1144,
+  "name": "liell",
+  "domain": "liell.netlify.app",
+  "short_name": "Liell casa e construção",
+  "description": "A Liell é uma empresa familiar que atua no mercado da construção civil a mais de 30 anos. Sempre atenta as inovações do mercado, busca as melhores soluções para seus clientes, oferecendo produtos de qualidade e variedade. Quando o assunto é materiais de construção, tintas, revestimentos, metais e acabamentos, a Liell é a loja de referência na região.",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
