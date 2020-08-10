@@ -2,5 +2,15 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### Quer conversar conosco?\n\n\n\nEstamos a disposição para dúvidas, sugestões e críticas.\n\nFique a vontade para escolher o meio que preferir:\n\n\n\nTelefone: (51) 3634-1387\n\nWhatsApp: (51) 99565-3008\n\nE-mail: contato@liell.com.br\n\n\n\n:",
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
