@@ -10,8 +10,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Blog",
+        "link": "/blog"
       }
     ],
     "phone_wpp": true,
