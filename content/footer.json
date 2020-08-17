@@ -24,23 +24,28 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/google-safe-browsing.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=liell.com.br&hl=pt_BR",
+      "alt": "Google Safe Browsing"
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
-    "banrisul": false,
+    "banrisul": true,
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
