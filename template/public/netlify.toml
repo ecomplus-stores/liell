@@ -85,7 +85,7 @@ status = 301
 
 [[redirects]]
 from = "/290-tubo-para-drenagem-corrugado-pead-preto-4-polegadas-metasul.html"
-to = "/"
+to = "/tubo-para-drenagem"
 status = 301
 
 [[redirects]]
@@ -139,11 +139,6 @@ to = "/tijolo-21-furos-vermelho-santa-fe"
 status = 301
 
 [[redirects]]
-from = "/2-cimento-todas-as-obras-votoran-50-kg.html"
-to = "/cimento-votoran-todas-as-obras-50-kg"
-status = 301
-
-[[redirects]]
 from = "/52-duchas-e-chuveiros"
 to = "/duchas-e-chuveiros"
 status = 301
@@ -161,11 +156,6 @@ status = 301
 [[redirects]]
 from = "/335-serra-tico-tico-550w-220v-black-decker.html"
 to = "/"
-status = 301
-
-[[redirects]]
-from = "/388-cimento-cp-iv-32-rs-caue-50-kg.html"
-to = "/cimento-caue-50-kg"
 status = 301
 
 [[redirects]]
@@ -201,11 +191,6 @@ status = 301
 [[redirects]]
 from = "/76-tintas-e-pintura"
 to = "/tintas-e-pintura"
-status = 301
-
-[[redirects]]
-from = "/15-cal-para-pintura-5-kg-tancal.html"
-to = "/cal-para-pintura-tancal"
 status = 301
 
 [[redirects]]
@@ -264,11 +249,6 @@ to = "/material-hidraulico"
 status = 301
 
 [[redirects]]
-from = "/10-argamassa-colante-interna-aci-20-kg-votoran.html"
-to = "/argamassa-colante-interna-aci-votoran"
-status = 301
-
-[[redirects]]
 from = "/98-pisos-e-revestimentos"
 to = "/revestimentos"
 status = 301
@@ -301,4 +281,9 @@ status = 301
 [[redirects]]
 from = "/45-tijolo-refratario-229x114x44.html"
 to = "/tijolo-refratario-medio"
+status = 301
+
+[[redirects]]
+from = "/305-manta-geotextil-215-metros.html"
+to = "/manta-geotextil-para-drenagem"
 status = 301
