@@ -70,7 +70,7 @@ status = 301
 
 [[redirects]]
 from = "/34-pedra-gres-grossa-42cm-x-22cm-x-17cm-unidade.html"
-to = "/"
+to = "/pedra-gres-grossa-17cm"
 status = 301
 
 [[redirects]]
@@ -280,7 +280,7 @@ status = 301
 
 [[redirects]]
 from = "/36-pedra-gres-media-42cm-x-22cm-x-14cm-unidade.html"
-to = "/"
+to = "/pedra-gres-media-14cm"
 status = 301
 
 [[redirects]]
