@@ -7,7 +7,7 @@
   "sections": [
     {
       "type": "blog-post",
-      "enabled": false
+      "enabled": true
     }
   ],
   "meta_title": "Drenagem de locais com excesso de água no solo",
