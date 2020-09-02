@@ -14,7 +14,8 @@
       "shuffle": true,
       "collection_id": "5f4ea7b17430f92180eaf032",
       "headless": false,
-      "title": "Materiais necessários para realização da drenagem"
+      "title": "Materiais necessários para realização da drenagem",
+      "sort": "sales"
     },
     {
       "type": "info-bar",
