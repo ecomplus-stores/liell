@@ -6,6 +6,9 @@
   "thumbnail": "/img/uploads/drenagem.jpg",
   "sections": [
     {
+      "type": "page-title"
+    },
+    {
       "type": "blog-post",
       "enabled": true
     },
