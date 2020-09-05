@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": " GTM-TWPP43S",
+    "gtmContainerId": "GTM-TWPP43S",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
