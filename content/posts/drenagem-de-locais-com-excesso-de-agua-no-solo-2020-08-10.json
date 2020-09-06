@@ -18,6 +18,12 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f550ed67430f92180ec6027",
+      "title": "Materiais necessários para realizar a drenagem do solo"
+    },
+    {
       "type": "blog-post",
       "enabled": true
     },
