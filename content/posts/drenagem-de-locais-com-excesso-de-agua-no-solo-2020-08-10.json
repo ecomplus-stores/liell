@@ -9,6 +9,15 @@
       "type": "page-title"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/drenagem.jpg",
+          "alt": "Drenagem"
+        }
+      ]
+    },
+    {
       "type": "blog-post",
       "enabled": true
     },
