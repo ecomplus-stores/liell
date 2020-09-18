@@ -2,30 +2,21 @@
   "date": "2020-09-01T20:02:37.432Z",
   "title": "Drenagem de locais com excesso de água no solo",
   "description": "Locais e terrenos com solos encharcados podem causar diversos problemas durante a obra e após a construção concluída. Além de prejudicar o andamento dos serviços de construção e aumentar seus custos, o excesso de água no solo pode causar um maior desgaste das estruturas e consequentemente uma menor vida útil. Neste post listamos uma maneira eficaz de efetuar a drenagem do excesso de água do solo.",
-  "body": "\n\n\n\nLocais e terrenos com solos encharcados podem causar diversos problemas durante a obra e após a construção concluída. Além de prejudicar o andamento dos serviços de construção e aumentar seus custos, o excesso de água no solo pode causar um maior desgaste das estruturas e consequentemente uma menor vida útil. Neste post listamos uma maneira eficaz de efetuar a drenagem do excesso de água do solo.\n\n## Como resolver?\n\nUma prática eficaz de drenagem é a subterrânea. Que consiste na instalação de tubos de drenagem envoltos de brita e da manta geotêxtil (bidim), criando assim, uma galeria que conduz o excesso de água até um local de despejo em um menor nível. Este tipo de drenagem permite o aproveitamento total da área e não gera custo de manutenção constante.\n\nAqui um exemplo prático de como fazer uma drenagem de um terreno eficaz.\n\n## Como fazer a drenagem do solo?\n\nPrimeiramente, deve-se verificar o terreno afim de verificar seu caimento e local para escoamento da água do dreno. \n\nApós planejar corretamente, abre-se uma vala cruzando o local com excesso de água e aumentando o nível de caimento até chegar ao local de escoamento.\n\nApós, se coloca a manta geotêxtil (manta de bidim) para não deixar que entre areia e sólidos no tubo de bidim, o que poderia ocasionar entupimento.\n\nColoque uma fina camada de brita por baixo e logo após o tubo de drenagem, complete com brita e isole por cima com a manta geotêxtil.\n\nApós isso, pode ser aterrado normalmente por cima.\n\nE você, já fez alguma drenagem no solo? Tem alguma dica ou sugestão que não foi listada aqui? Envie para nós nos comentários abaixo. Iremos adicionar aqui para que outras pessoas também possam resolver este problema.",
+  "body": "Locais e terrenos com solos encharcados podem causar diversos problemas durante a obra e após a construção concluída. Além de prejudicar o andamento dos serviços de construção e aumentar seus custos, o excesso de água no solo pode causar um maior desgaste das estruturas e consequentemente uma menor vida útil. Neste post listamos uma maneira eficaz de efetuar a drenagem do excesso de água do solo.\n\n\n\n![](/img/uploads/capa-post-drenagem-solo.png)\n\n\n\n## Como resolver?\n\nUma prática eficaz de drenagem é a subterrânea. Que consiste na instalação de tubos de drenagem envoltos de brita e da manta geotêxtil (bidim), criando assim, uma galeria que conduz o excesso de água até um local de despejo em um menor nível. Este tipo de drenagem permite o aproveitamento total da área e não gera custo de manutenção constante.\n\nAqui um exemplo prático de como fazer uma drenagem de um terreno eficaz.\n\n\n\n![](/img/uploads/drenagem-solo.png)\n\n\n\n## Como fazer a drenagem do solo?\n\nPrimeiramente, deve-se verificar o terreno afim de verificar seu caimento e local para escoamento da água do dreno. \n\nApós planejar corretamente, abre-se uma vala cruzando o local com excesso de água e aumentando o nível de caimento até chegar ao local de escoamento.\n\nApós, se coloca a manta geotêxtil (manta de bidim) para não deixar que entre areia e sólidos no tubo de bidim, o que poderia ocasionar entupimento.\n\nColoque uma fina camada de brita por baixo e logo após o tubo de drenagem, complete com brita e isole por cima com a manta geotêxtil.\n\nApós isso, pode ser aterrado normalmente por cima.\n\nE você, já fez alguma drenagem no solo? Tem alguma dica ou sugestão que não foi listada aqui? Envie para nós nos comentários abaixo. Iremos adicionar aqui para que outras pessoas também possam resolver este problema.",
   "thumbnail": "/img/uploads/drenagem.jpg",
   "sections": [
     {
       "type": "page-title"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/drenagem.jpg",
-          "alt": "Drenagem"
-        }
-      ]
+      "type": "blog-post",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f550ed67430f92180ec6027",
       "title": "Materiais necessários para realizar a drenagem do solo"
-    },
-    {
-      "type": "blog-post",
-      "enabled": true
     },
     {
       "type": "info-bar",
