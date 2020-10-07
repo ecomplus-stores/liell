@@ -131,7 +131,6 @@ if (mainCategories) {
     <a href="https://liell.com.br/blog"><span>BLOG</span></a>
     <% if (menu.phone_wpp) { %>
       <div class="menu__phone">
-        <% if (contacts.whatsapp) { %>
           <a
             href="javascript:;"
             target="_blank"
@@ -142,7 +141,7 @@ if (mainCategories) {
             <i class="fab fa-whatsapp mr-1"></i>
             <%= contacts.whatsapp %>
           </a>
-        <% } else if (contacts.phone) { %>
+        <br>
           <a
             href="tel:+<%= contacts.phone.replace(/\D/g, '') %>"
             target="_blank"
@@ -151,7 +150,7 @@ if (mainCategories) {
             <i class="fas fa-phone mr-1"></i>
             <%= contacts.phone %>
           </a>
-        <% } %>
+
       </div>
     <% } %>
 
