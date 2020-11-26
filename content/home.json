@@ -4,13 +4,25 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 3000,
       "slides": [
         {
           "img": "/img/uploads/banner2.webp",
           "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "start": "2020-11-26T19:00:00.000Z",
+          "end": "2020-11-26T19:43:20.052Z"
+        },
+        {
+          "start": "2020-11-26T19:27:16.648Z",
+          "end": "2020-11-30T03:01:00.000Z",
+          "img": "/img/uploads/black-friday.png",
+          "alt": "Black Friday é aqui na Liell"
+        },
+        {
+          "start": "2020-11-26T19:40:55.806Z",
+          "end": "2020-11-30T03:01:00.000Z",
+          "img": "/img/uploads/furadeira-black-friday.png",
+          "link": "https://liell.com.br/furadeira-de-impacto-560w-38-220v-tm500-black-decker"
         }
       ]
     },
