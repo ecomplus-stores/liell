@@ -9,8 +9,8 @@
         {
           "img": "/img/uploads/banner2.webp",
           "alt": "Banner sample two",
-          "start": "2020-11-26T19:00:00.000Z",
-          "end": "2020-11-26T19:43:20.052Z"
+          "start": "2020-11-30T03:00:00.000Z",
+          "end": ""
         },
         {
           "start": "2020-11-26T19:27:16.648Z",
@@ -23,6 +23,18 @@
           "end": "2020-11-30T03:01:00.000Z",
           "img": "/img/uploads/furadeira-black-friday.png",
           "link": "https://liell.com.br/furadeira-de-impacto-560w-38-220v-tm500-black-decker"
+        },
+        {
+          "start": "2020-11-26T19:54:15.892Z",
+          "end": "2020-11-30T03:01:00.000Z",
+          "img": "/img/uploads/misturador-black-friday.png",
+          "link": "https://liell.com.br/misturador-monocomando-cozinha-loggica-chrome-578106-docol"
+        },
+        {
+          "start": "2020-11-26T20:01:55.420Z",
+          "end": "2020-11-30T03:00:00.000Z",
+          "img": "/img/uploads/massa-corrida-black-friday.png",
+          "link": "https://liell.com.br/killing-massa-corrida-25-kgs"
         }
       ]
     },
