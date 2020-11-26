@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 3000,
+      "autoplay": 3500,
       "slides": [
         {
           "img": "/img/uploads/banner2.webp",
@@ -35,6 +35,18 @@
           "end": "2020-11-30T03:00:00.000Z",
           "img": "/img/uploads/massa-corrida-black-friday.png",
           "link": "https://liell.com.br/killing-massa-corrida-25-kgs"
+        },
+        {
+          "start": "2020-11-26T20:19:20.678Z",
+          "end": "2020-11-30T03:00:00.000Z",
+          "img": "/img/uploads/lampada-black-friday.png",
+          "link": "https://liell.com.br/lampada-de-led-9w-luz-fria-6500k-tkl-60-taschibra"
+        },
+        {
+          "start": "2020-11-26T20:28:01.149Z",
+          "end": "2020-11-30T03:00:00.000Z",
+          "img": "/img/uploads/selador-black-friday.png",
+          "link": "https://liell.com.br/killing-selador-acrilico-18lt"
         }
       ]
     },
