@@ -109,5 +109,6 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS: .firebase-adminsdk.json
           FIREBASE_PRIVATE_KEY: ${{ secrets.FIREBASE_PRIVATE_KEY }}
         run: |
+          PROJECT_ID=$(node -p "require('./$GOOGLE_APPLICATION_CREDENTIALS').project_id");
           echo $FIREBASE_PRIVATE_KEY > $GOOGLE_APPLICATION_CREDENTIALS
-          npx firebase deploy
+          npx firebase deploy --project=$PROJECT_ID
