@@ -1,6 +1,296 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/2-cimento-todas-as-obras-votoran-50-kg.html",
+        "destination": "/cimento-votoran-todas-as-obras-50-kg",
+        "type": 301
+      },
+      {
+        "source": "/388-cimento-cp-iv-32-rs-caue-50-kg.html",
+        "destination": "/cimento-caue-50-kg",
+        "type": 301
+      },
+      {
+        "source": "/15-cal-para-pintura-5-kg-tancal.html",
+        "destination": "/cal-para-pintura-tancal",
+        "type": 301
+      },
+      {
+        "source": "/14-cal-virgem-comum-20-kg-tancal.html",
+        "destination": "/cal-virgem-comum-tancal",
+        "type": 301
+      },
+      {
+        "source": "/13-cal-hidratada-tancal-20-kg.html",
+        "destination": "/cal-hidratada-tancal",
+        "type": 301
+      },
+      {
+        "source": "/10-argamassa-colante-interna-aci-20-kg-votoran.html",
+        "destination": "/argamassa-colante-interna-aci-votoran",
+        "type": 301
+      },
+      {
+        "source": "/12-argamassa-colante-piso-sobre-piso-cinza-20-kg-votoran.html",
+        "destination": "/argamassa-colante-piso-sobre-piso-e-porcelanatos-cinza-votoran",
+        "type": 301
+      },
+      {
+        "source": "/11-argamassa-colante-externa-acii-20-kg-votoran.html",
+        "destination": "/argamassa-colante-externa-acii-votoran",
+        "type": 301
+      },
+      {
+        "source": "/16-argamassa-pronta-unica-20kg-votoran.html",
+        "destination": "/argamassa-pronta-para-reboco-e-assentamento-votoran",
+        "type": 301
+      },
+      {
+        "source": "/25-po-de-brita-m.html",
+        "destination": "/po-de-brita",
+        "type": 301
+      },
+      {
+        "source": "/22-brita01agg5rosadam3.html",
+        "destination": "/brita-rosada",
+        "type": 301
+      },
+      {
+        "source": "/47-tijolo-21-furos-mesclado-santa-fe.html",
+        "destination": "/tijolo-21-furos-mesclado-santa-fe",
+        "type": 301
+      },
+      {
+        "source": "/46-tijolo-refratario-229x114x25-tijoleta.html",
+        "destination": "/tijolo-refratario-fino",
+        "type": 301
+      },
+      {
+        "source": "/18-areiao-grosso-m.html",
+        "destination": "/areiao-grosso",
+        "type": 301
+      },
+      {
+        "source": "/34-pedra-gres-grossa-42cm-x-22cm-x-17cm-unidade.html",
+        "destination": "/pedra-gres-grossa-17cm",
+        "type": 301
+      },
+      {
+        "source": "/42-tijolo-6-furos-9-x-14-x-19-cm.html",
+        "destination": "/tijolo-6-furos-19cm",
+        "type": 301
+      },
+      {
+        "source": "/41-tijolo-6-furos-9-x-14-x-24-cm.html",
+        "destination": "/tijolo-6-furos-24cm",
+        "type": 301
+      },
+      {
+        "source": "/290-tubo-para-drenagem-corrugado-pead-preto-4-polegadas-metasul.html",
+        "destination": "/tubo-para-drenagem",
+        "type": 301
+      },
+      {
+        "source": "/20-areia-media-m.html",
+        "destination": "/areia-media",
+        "type": 301
+      },
+      {
+        "source": "/13-cal-hidratada-tancal-20-kg.html",
+        "destination": "/cal-hidratada-tancal",
+        "type": 301
+      },
+      {
+        "source": "/contato",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+      {
+        "source": "/175-mascara-semi-facial-pff2-com-valvula-atlas.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/357-arandela-colonial-externa-pendente-para-teto-preta-de-aluminio-tlf-28-taschibra.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/37-material_de_construcao",
+        "destination": "/material-de-construcao",
+        "type": 301
+      },
+      {
+        "source": "/37-tijoleta-gres-unidade.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/43-tijolo-refratario-229x114x51-15-furos.html",
+        "destination": "/tijolo-refratario-15-furos-grosso",
+        "type": 301
+      },
+      {
+        "source": "/40-tijolo-macico-5-cm-x-9-cm-x-24-cm.html",
+        "destination": "/tijolo-macico",
+        "type": 301
+      },
+      {
+        "source": "/48-tijolo-21-furos-vermelho-santa-fe.html",
+        "destination": "/tijolo-21-furos-vermelho-santa-fe",
+        "type": 301
+      },
+      {
+        "source": "/52-duchas-e-chuveiros",
+        "destination": "/duchas-e-chuveiros",
+        "type": 301
+      },
+      {
+        "source": "/33-malha-de-ferro-15cm-x-15cm-2m-3m.html",
+        "destination": "/malha-de-ferro-4-2mm-15cm-x-15cm-2m-x-3m",
+        "type": 301
+      },
+      {
+        "source": "24-brita-m.html",
+        "destination": "/brita-1",
+        "type": 301
+      },
+      {
+        "source": "/335-serra-tico-tico-550w-220v-black-decker.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/44-tijolo-refratario-229x114x51.html",
+        "destination": "/tijolo-refratario-grosso",
+        "type": 301
+      },
+      {
+        "source": "/8-tijolo",
+        "destination": "/tijolo",
+        "type": 301
+      },
+      {
+        "source": "/28-ferro-gerdau-10mm-12-metros.html",
+        "destination": "/ferro-gerdau-10-mm-12-metros",
+        "type": 301
+      },
+      {
+        "source": "/29-ferro-gerdau-8mm-12-metros.html",
+        "destination": "/ferro-gerdau-8-mm-12-metros",
+        "type": 301
+      },
+      {
+        "source": "/30-ferro-gerdau-6-3-mm-12-metros.html",
+        "destination": "/ferro-gerdau-6-3-mm-12-metros",
+        "type": 301
+      },
+      {
+        "source": "/6-ferro",
+        "destination": "/ferro",
+        "type": 301
+      },
+      {
+        "source": "/76-tintas-e-pintura",
+        "destination": "/tintas-e-pintura",
+        "type": 301
+      },
+      {
+        "source": "/262-nivel-de-aluminio-120cm-48-stanley.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/32-ferro-gerdau-4-2mm-12-metros.html",
+        "destination": "/ferro-gerdau-4-2-mm-12-metros",
+        "type": 301
+      },
+      {
+        "source": "/338-jimo-antitraca-em-cartela-cabide.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/49-adesivo-selante-cristal-50g-mixbond.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/204-chaleira-preta-inox-25-litros-mattina-mor.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/27-ferro-gerdau-12-5mm-12-metros.html",
+        "destination": "/ferro-gerdau-12-5-mm-12-metros",
+        "type": 301
+      },
+      {
+        "source": "/38-vedacao-e-impermeabilizacao",
+        "destination": "/vedacao-e-impermeabilizacao",
+        "type": 301
+      },
+      {
+        "source": "/4-cimento-cal-e-argamassas",
+        "destination": "/cimento-cal-e-argamassas",
+        "type": 301
+      },
+      {
+        "source": "/91-ducha-sublime-zagonel-220v-7500w.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/23-brita-04-pedrisco-m.html",
+        "destination": "/brita-04",
+        "type": 301
+      },
+      {
+        "source": "/39-material-hidraulico",
+        "destination": "/material-hidraulico",
+        "type": 301
+      },
+      {
+        "source": "/98-pisos-e-revestimentos",
+        "destination": "/revestimentos",
+        "type": 301
+      },
+      {
+        "source": "/359-ducha-top-jet-turbo-eletronica-7500w-220v-lorenzetti.html",
+        "destination": "/",
+        "type": 301
+      },
+      {
+        "source": "/36-pedra-gres-media-42cm-x-22cm-x-14cm-unidade.html",
+        "destination": "/pedra-gres-media-14cm",
+        "type": 301
+      },
+      {
+        "source": "/31-ferro-gerdau-5mm-12-metros.html",
+        "destination": "/ferro-gerdau-5-mm-12-metros",
+        "type": 301
+      },
+      {
+        "source": "/7-pedra-gres",
+        "destination": "/pedra-gres",
+        "type": 301
+      },
+      {
+        "source": "/5-areia-e-brita",
+        "destination": "/areia-e-brita",
+        "type": 301
+      },
+      {
+        "source": "/45-tijolo-refratario-229x114x44.html",
+        "destination": "/tijolo-refratario-medio",
+        "type": 301
+      },
+      {
+        "source": "/305-manta-geotextil-215-metros.html",
+        "destination": "/manta-geotextil-para-drenagem",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
